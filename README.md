@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Developer and programmer with good<br>skills in C++,JavaScript,and python.Focused on<br>keeping a balanced architecture in order to<br>minimise errors and bugs.Successfully designed<br>and built sever projects.Offering a strong<br>foundation in web Development and the newest<br>knowledge within database management
+Junior Developer and programmer with good<br>skills in C++,JavaScript,and python.Focused on<br>keeping a balanced architecture in order to<br>minimise errors and bugs.Successfully designed<br>and built sever projects.Offering a strong<br>foundation in web Development and the newest<br>knowledge within database management.
 
 
 ## 🌐 Socials:
